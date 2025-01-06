@@ -11,21 +11,18 @@ Here's a glimpse into my journey:
 
 ### City Connectivity 
 
-*OVERVIEW:*  
-
-OVERVIEW:
-
+**OVERVIEW**: 
 Bus Reservation System: Allows users to book bus tickets, check schedules, and make payments online. It helps manage seat availability and cancellations for both passengers and bus operators.
 Train Reservation System: Enables users to book train tickets, view real-time schedules, and track seat availability. It also offers secure payment options and cancellation features.
 Pathfinding Management System: Suggests the best routes across various transportation modes (bus, train, taxi), integrating real-time traffic and weather data for optimized travel.
 Residence Management System: Helps users find, book, and manage both short-term (hotels) and long-term (apartments) accommodations, with features for booking, payments, and lease management.
 *Technical Stack:*  
 
-- *Languages:* C++, Java  
+- **Languages**: C++, Java  
 - *Algorithms:* Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 - *Tools:* Graphs, DAA Optimization Techniques  
 
-*Impact:*  
+**Impact**  
 
 Improved Mobility: Simplifies multi-modal travel (bus, train, taxi) with optimized routes, reducing travel time and traffic congestion.
 Enhanced User Experience: Provides easy online booking, real-time updates, and personalized travel options, improving convenience for users.
@@ -47,20 +44,20 @@ Environmental Benefits: Promotes sustainable travel, reduces carbon emissions, a
 
 ## Portfolio Highlights
 
-### 🎯 *Topic:* 
+### 🎯 **Topic** 
 
 - DAA (Design and Analysis of Algorithms)  
 - Focus: Algorithmic Problem Solving for Pollution cities  
 
-### 📋 *Details:*
+### 📋 **Details**
 
-- *Course Name: Algorithms Lab 
-- *Course Code: 24ECAP202  
-- *Name:* Shreya Mannurkar
-- *SRN:* 02FE23BCI059  
-- *Course Instructor: Dr.Priyanka Gavade  
-- *University: KLE TECHNOLOGICAL UNIVERSITY
-- *Topic: City Connectivity
+- **Course Name**: Algorithms Lab 
+- **Course Code**: 24ECAP202  
+- **Name**:Shreya Mannurkar
+- **SRN**: 02FE23BCI059  
+- **Course Instructor**: Dr.Priyanka Gavade  
+- **University**: KLE TECHNOLOGICAL UNIVERSITY
+- **Topic**: City Connectivity
 
 ---
 
