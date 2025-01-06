@@ -42,7 +42,7 @@ Environmental Benefits: Promotes sustainable travel, reduces carbon emissions, a
 
 ## 🌐 *Find Me Online*
 
-- [GitHub]()
+- [GitHub](https://github.com/shreya1176/portfolioo.git.io)
 - [LinkedIn](www.linkedin.com/in/shreya-mannurkar-701195345)
 
 ## Portfolio Highlights
